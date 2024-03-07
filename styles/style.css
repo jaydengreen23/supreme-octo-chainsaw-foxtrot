@@ -1,6 +1,44 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
-
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Space+Mono&display=swap');
 body{
     color: red;
     background-color: black;
 }
+/* .bass {
+    position: relative;
+    /* text-align: center; */
+    /* color: white; Text color */
+ 
+
+/* Style for the text */
+/* .text-overlay {
+    position: absolute;
+    top: 50%; /* Adjust this value to position the text vertically */
+     /* Adjust this value to position the text horizontally */
+    /* transform: translate(-50%, -50%);
+} */ 
+
+.container > p{
+    position: left;
+    text-align: left;
+    color: white; /* Text color */
+    font-size: 300px;
+}
+
+/* Style for the text */
+.text-overlay {
+    position: absolute;
+    top: 17%; /*Adjust this value to position the text vertically*/
+    /* left: 50%; Adjust this value to position the text horizontally */
+    /* transform: translate(-50%, -50%); */
+    color:black;
+    font-size: 30px;
+}
+#bass{
+    width: 500px;
+    text-align: center;
+
+}
+/* .bass .container{
+
+} */

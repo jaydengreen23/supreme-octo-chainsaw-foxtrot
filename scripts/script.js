@@ -4,7 +4,6 @@
         "https://images.thedirect.com/media/article_full/loki-season-2-characters.jpg",
         "https://th.bing.com/th/id/OIP.udhtqEGoscMLdzC0BCejugHaF3?rs=1&pid=ImgDetMain",
         "https://i.imgflip.com/49j42o.jpg",
-        "https://una.edu/directory/img/789.jpg"
         // Add more image URLs as needed
     ];
     var currentIndex = 0;
